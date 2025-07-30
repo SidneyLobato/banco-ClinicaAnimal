@@ -1,6 +1,6 @@
 # 🐾 Clínica Veterinária Vida Animal
 
-![Banner Clínica Veterinária](https://user-images.githubusercontent.com/SEU-USUARIO/imagem-exemplo.png)
+
 
 ---
 
